@@ -1,11 +1,16 @@
 _repo: Die-Technik-der-Lastenforderung-einst-und-jetzt-Eine-Studie-uber-die-Entwicklung-der-Hebemasc__57636
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57636-h/images/cover.jpg
 creator:
   author:
     agent_name: Kammerer, Otto
     gutenberg_agent_id: '49517'
     url: http://www.gutenberg.org/2009/agents/49517
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57636#Die-Technik-der-Lastenforderung-einst-und-jetzt-Eine-Studie-uber-die-Entwicklung-der-Hebemasc_
 gutenberg_issued: '2018-08-04'
 gutenberg_type: Text
 identifiers:
